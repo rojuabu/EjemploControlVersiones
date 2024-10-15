@@ -32,3 +32,10 @@ AreaTriangulo <- (Base*Altura)/2
 AreaRectangulo <- Base * Altura
 ```
 
+```{r}
+base <- 5
+
+AreaTrapecio <- h*((Base*base)/2)
+
+```
+
